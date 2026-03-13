@@ -9,7 +9,7 @@ The application allows users to **browse products, search items, and view single
 
 ## 🚀 Live Demo
 
-https://yourusername.github.io/fake-store-web-app/
+https://charanepuri.github.io/fake-store-web-app/
 
 ---
 
@@ -59,6 +59,17 @@ fake-store-web-app
 │
 └── assets
 └── logo.png
+
+---
+
+## 📡 API Used
+
+Fake Store API
+
+https://fakestoreapi.com/
+
+Example endpoint:
+https://fakestoreapi.com/products
 
 ---
 

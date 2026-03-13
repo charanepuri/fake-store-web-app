@@ -15,7 +15,7 @@ https://charanepuri.github.io/fake-store-web-app/
 
 ## 📸 Project Preview
 
-![Project Screenshot](./assets/screenshot.png)
+![Project Screenshot](../assets/screenshot.png)
 
 ---
 
